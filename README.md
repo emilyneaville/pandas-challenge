@@ -1,1 +1,5 @@
-# Readme
+# Background and Context
+
+This project utilizes Pandas to bring both high-level and acute analyses and summaries of the city's school district data. This analysis will aid the school board in making data-driven decisions and in coming to conclusions about budget, spending, and how to better allocate resources based on the needs of the district.
+
+The two datasets used for analysis are two csv files titled [schools_complete.csv](https://github.com/emilyneaville/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv) and [students_complete.csv](https://github.com/emilyneaville/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete.csv). schools_complete.csv includes key information about the each school in the district such as 'Student ID', 'school_name', 'type', 'size', and 'budget'.
