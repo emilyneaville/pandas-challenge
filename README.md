@@ -8,4 +8,4 @@ The two datasets used for analysis are csv files titled [schools_complete.csv](h
 
 #### Sub-par overall passing percentage
 - Looking at the District Summary, it is immediately noticeable that the overall percentage of students that passed both math and reading is sub-par at just 65.17%. This prompts further investigation on what is creating this low statistic, and in the Per School Summary we can see why: 7 of the 15 schools in the district have an overall passing percentage of lower than 55%. 
-    - 
+    - Why do these 7 schools have such low scores? The answer may be found by examining the school type. These 7 schools are district schools, which historically underperform when compared to charter schools.
